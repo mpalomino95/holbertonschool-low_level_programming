@@ -1,4 +1,9 @@
-` project you are expected to be able to explain to anyone,
+## 0x02-functions_nested_loops
+
+### OVERVIEW
+
+```
+At the end of this project you are expected to be able to explain to anyone,
 without the help of Google:
 ```
 * What are nested loops and how to use them
