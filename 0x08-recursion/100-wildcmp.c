@@ -1,5 +1,4 @@
 #include "holberton.h"
-
 /**
 * test - tests if wildcard is a proper match
 * @s5: string to compare
@@ -57,7 +56,7 @@ p = wildcard(s1, s2 + 1);
 if (p == 0)
 return (0);
 return (wildcmp(p + 1, s2 + 2));
-    }
+}
 else if (*s1 != *s2)
 return (0);
 if (*s1 == '\0' && *s2 == '\0')
